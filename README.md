@@ -40,6 +40,25 @@ download directly:
 
 
 
+
+## 🛠️ Flutter Project Setup Instructions
+
+Follow the steps below to run the **UserFetchr** Flutter app locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Priyank-Bhagat/UserFetchr.git
+   cd UserFetchr
+   
+2. **Install Flutter dependencies**
+   ```bash
+   flutter pub get
+
+3. **Run the app**
+   ```bash
+   flutter run
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -53,6 +72,3 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-## Feedback / Suggestion
-Just download [Devcard app](https://github.com/Priyank-Bhagat/dev_card) and contact me.🤗
