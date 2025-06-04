@@ -1,6 +1,44 @@
-# user_fetchr
 
-A new Flutter project.
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/ef353099-476f-47fc-8a35-42d4944c17c4" alt="something was here🤔">
+</p>
+
+# UserFetchr
+
+UserFetchr is a sleek and lightweight user data viewer app that fetches and displays user profiles from a remote API.
+
+## Demo
+
+a very simple and beautiful design..
+
+<p> 
+  <img width="200" src="https://github.com/user-attachments/assets/9b5f63b3-0bec-46ba-ae8b-411cee928ec5" alt="something was here🤔">
+    <img width="200" src="https://github.com/user-attachments/assets/defb6e23-b761-499f-a3de-eac283d28894" alt="something was here🤔">
+</p>
+
+
+📜 A Pull-To-Refresh feature 📜
+<p>
+  <img width="200" src="https://github.com/user-attachments/assets/8757e1f6-bc71-4260-9f42-592c5ac161af" alt="something was here🤔">
+</p>
+
+
+I've also implemented Dark and Light mode to take care of your eyes.
+
+<p>
+  <img width="200" src="https://github.com/user-attachments/assets/0b61ee4d-04d2-446a-8114-05e711f5e1dc" alt="something was here🤔">
+</p>
+
+
+
+
+
+
+## Download
+download directly: 
+[⬇️ Download UserFetchr ](https://drive.google.com/file/d/1lhpd3F2m0xPghhdca3lh7BZtxTU3TDEA/view?usp=drive_link)👈and keep vibing✌️.
+
+
 
 ## Getting Started
 
@@ -14,3 +52,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Feedback / Suggestion
+Just download [Devcard app](https://github.com/Priyank-Bhagat/dev_card) and contact me.🤗
